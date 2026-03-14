@@ -36,7 +36,7 @@ export default function Hero() {
           Welcome to Khachi Resort
         </p>
 
-        <h1 className="text-white text-xl md:text-4xl lg:text-5xltext-xl md:text-4xl lg:text-5xl">
+        <h1 className="text-white text-xl md:text-4xl lg:text-5xl ">
           A Royal Escape into Nature & Comfort
         </h1>
 
